@@ -1,0 +1,2 @@
+Para a visualização correta do trabalho é preciso criar o banco de dados com os dados, pois
+são necessários para a exibição dos restaurantes.
